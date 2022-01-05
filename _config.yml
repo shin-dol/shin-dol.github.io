@@ -81,7 +81,8 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+#remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+remote_theme: hydecorp/hydejack
 
 
 # Customizaton
@@ -333,6 +334,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-remote-theme
 
 
 # SEO Tag
