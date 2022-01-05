@@ -17,22 +17,22 @@ url:                   https://shin-dol.github.io
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Shin-Dol's Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  블로그에 방문해주셔서 감사합니다:)
+  
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               MLops를 향한 여정
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [AI, MLops, blog, backend, python computer science, data science]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,19 +42,30 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Jeonghun shin
+  email:               jhshin8691@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Blog
+    url:               /blog/
+    submenu:
+      - title:  GithubPages
+        url:      /githubpages/
+      - title:  Python
+        url:      /python/
+      - title:  ML/DL
+        url:      /mldl/
+      - title:  Algorithm
+        url:      /algorithm/
+      - title:  blog-etc
+        url:      /blog-etc/
+  - title:             Etc
+    url:               /etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
