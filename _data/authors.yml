@@ -7,8 +7,8 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    MLops를 이해하기 위한 여정
+  about:             
+    MLops를 향한 여정
 
   # This photo will be used in the about section
   picture:
