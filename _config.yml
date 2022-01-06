@@ -62,8 +62,6 @@ menu:
         url:      /mldl/
       - title:  Algorithm
         url:      /algorithm/
-      - title:  blog-etc
-        url:      /blog-etc/
   - title:             Etc
     url:               /etc/
 
@@ -91,7 +89,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 #remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 remote_theme: hydecorp/hydejack
 
