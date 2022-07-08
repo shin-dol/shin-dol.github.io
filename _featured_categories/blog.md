@@ -22,5 +22,5 @@ description: >
 [GithubPages]: /githubpages/
 [Python]: /python/
 [ML/DL]: /mldl/
-[Algorithm]: algorithm/
-[CodingSkill]: /_posts/blog/codingskill/
+[Algorithm]: /algorithm/
+[CodingSkill]: /codingskill/
