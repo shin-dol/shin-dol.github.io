@@ -23,4 +23,4 @@ description: >
 [Python]: /python/
 [ML/DL]: /mldl/
 [Algorithm]: algorithm/
-[CodingTest]: codingskill/
+[CodingSkill]: codingskill/
