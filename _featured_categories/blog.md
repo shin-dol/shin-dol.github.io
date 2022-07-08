@@ -4,7 +4,7 @@ type: category
 bigtitle: Blog
 sitemap: true
 hide_description: false
-order: 5
+order: 4
 description: >
   블로그 주요 포스팅 공간
 ---
@@ -23,4 +23,4 @@ description: >
 [Python]: /python/
 [ML/DL]: /mldl/
 [Algorithm]: algorithm/
-[CodingSkill]: /_posts/blog/codingskill/2022-07-08-coding-skill-01.md
+[CodingSkill]: /_posts/blog/codingskill/
