@@ -23,4 +23,4 @@ description: >
 [Python]: /python/
 [ML/DL]: /mldl/
 [Algorithm]: algorithm/
-[CodingSkill]: codingskill/
+[CodingSkill]: /_posts/blog/codingskill/2022-07-08-coding-skill-01.md
